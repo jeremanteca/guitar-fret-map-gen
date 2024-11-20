@@ -8,7 +8,7 @@ especialmente útil para músicos que desean experimentar con afinaciones
 alternativas y tener una representación visual clara de cómo se distribuyen las notas
 en el mástil en función de la afinación elegida.
 
-2.- Requerimientos con descripción, wireframe relacionado y casos de uso del requerimiento.
+2.- Requerimientos con descripción, wireframe relacionado y casos de uso del requerimiento:
 Requisitos Funcionales de Usuario
 • El usuario debe poder ingresar una afinación personalizada para la guitarra.
 • El usuario debe poder generar un mapa del diapasón basado en la afinación
