@@ -1,4 +1,4 @@
-1.- Contexto del proyecto
+1.- Contexto del proyecto:
 Aplicación de Android, la cual permite la generación de mapas de diapasón de
 guitarra, diseñada para músicos y entusiastas de la guitarra que buscan explorar y
 visualizar diferentes afinaciones de manera personalizada. La aplicación permite al
